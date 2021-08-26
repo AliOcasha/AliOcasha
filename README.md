@@ -1,8 +1,8 @@
-## Hello there, I'm Ali :muscle: and welcome on my "GitHub Profile"!
+# Hello there, I'm Ali :muscle: and welcome on my "GitHub Profile"!
 
-### I'm a mechatronics student and working as a "student trainee programmer"
+## I'm a mechatronics student :nut_and_bolt: and working as a "student trainee programmer" :computer:
 
-## Languages and tools I use:
+## Using:
 ### My IDE
 <img align="left" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /><br />
 
